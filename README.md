@@ -2,4 +2,9 @@
 
 [![Shaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=soloplxya&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### Things that I am currently working on: 
+* Simple 2D Game using Godot
+* Nus Merch Web-app using React 
+
+
 
