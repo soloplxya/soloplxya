@@ -33,6 +33,8 @@
 <div id="socials"> 
   <a href="https://www.linkedin.com/in/shaine-goh-3b0b12b3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="70" width="70"/></a>  
   <a href="https://www.youtube.com/channel/UCKFGWOSII9i6K9lhkS5mWig" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/youtube-logo-png-picture-13.png" height="70" width="120" alt="Youtube Logo PNG Picture 13" /></a>
+  <a href="https://www.leetcode.com/soloplxya" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="70" width="70" /></a>
+
 </div> 
 
 ## Others
