@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="50"/>
+  <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" height="50" width="50">
+  <img src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=currentColor" height="50" width="50"/>
   
           
 </div>
